@@ -15,7 +15,7 @@
  */
  
  body {
-     width: 1200px;
+     width: 1000px;
      background-color: white;
  }
  nav li{
@@ -32,15 +32,17 @@ nav li a:hover{
     color: #000;
 }
  #header{
-     padding-left: 500px;
+     padding-right: 200px;
      float: right;
  }
 #sidebar{
+    padding-top: 0px;
     padding-left: 100px;
     float: left;
 }
 #content{
-    padding-top: 100px;
+ padding-right: 200px;
+    padding-top: 50px;
     float: right;
 }
 #footer{
